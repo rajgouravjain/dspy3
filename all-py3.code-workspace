@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.enableExperiments": false,
+		"workbench.settings.enableNaturalLanguageSearch": false
+	}
+}
