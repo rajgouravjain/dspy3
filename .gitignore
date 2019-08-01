@@ -105,3 +105,5 @@ venv.bak/
 
 .idea/
 .ipynb_checkpoints/
+#.ipynb
+#1.ipynb/
